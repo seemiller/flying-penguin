@@ -1,0 +1,2 @@
+echo "flying\nPenguin\n"
+
